@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PROJECT</title>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="utf-8">
+    </head>
+<body>
+<header>
+
+<img src="images/logo.png" >
+    <nav>
+        <ul class="menu_en_ligne">
+            <li class="ligne"><a class="lien" href="index.html">Accueil</a></li>
+            <li class="ligne"><a class="lien" href="pronos">Pronostic</a></li>
+            <li class="ligne"><a class="lien" href="bilan.html">Bilan</a></li>
+            <li class="ligne"><a class="lien" href="contact.html">Contact</a></li>
+            <li class="ligne"><a class="lien" href="liens.html">liens</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section id="pronos">
+        <p>
+            <h3>Jeudi 20 septembre :</h3>
+
+            <p>Départ prévu à 13h47</p>
+
+<p>TICKET :
+
+2 - 12 - 3 - 1 - 14 </p>
+
+</p>
+        <p>
+            <h5>Probabilité : 77%</h5>
+        </p>
+       
+    </section>
+</main>
+<footer class="end">
+ copyright©  Designed by MURUGAIYAN RICOUR ELMALEH copyright©
+  <footer>
+  	</body>
+</html>
